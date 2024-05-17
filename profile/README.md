@@ -1,5 +1,5 @@
 # 🖐️ Welcome to the deep daiv. Computer Vision Team!
-This is repository for the Deep Dive Computer Vision team's code and projects.  
+This is repository for the deep daiv. Computer Vision team's code and projects.  
 
 Mentor: [Jaeung Lee](https://github.com/gnueaj)  
 
