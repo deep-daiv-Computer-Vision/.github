@@ -16,6 +16,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 ## '24 Spring Vision Application  
 <div align="center">
 <h3> FIFA: Futsal Identification Focused Analyzer </h3>
+[**Lihe Yang**](https://liheyoung.github.io/)<sup>1</sup>
 Chunghyun Shin<sup>1</sup>, Myeonggu Jo<sup>2</sup>, Soo Yong Kim <sup>3</sup>, and Jaeung Lee <sup>4&dagger;</sup>
 <br>
 <sup>1</sup>Yonsei University&emsp;
@@ -31,7 +32,7 @@ Chunghyun Shin<sup>1</sup>, Myeonggu Jo<sup>2</sup>, Soo Yong Kim <sup>3</sup>, 
 <br>
 </div>
 
---- 
+---
 <div align="center">
 <h3> 새 추적 60분 </h3>
 Yejin Kim<sup>1</sup>, Sumin Cho<sup>2</sup>, Wooryeon Lee <sup>3</sup>, and Jaeung Lee <sup>4&dagger;</sup>
