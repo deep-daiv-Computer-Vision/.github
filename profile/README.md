@@ -20,7 +20,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 
 [Chunghyun Shin](https://github.com/chung-codes)<sup>1</sup>
 , [Myeonggu Jo](https://github.com/MyeongGuJo)<sup>2</sup>
-, [SooYong Kim](https://github.com/ksyint) <sup>3</sup>
+, [Sooyong Kim](https://github.com/ksyint) <sup>3</sup>
 , and [Jaeung Lee](https://github.com/gnueaj) <sup>4&dagger;</sup>
 <br>
 <sup>1</sup>Yonsei University&emsp;
