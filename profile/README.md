@@ -27,11 +27,9 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 <sup>2</sup>Hanyang University&emsp;
 <sup>3</sup>Seoul National University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
-
 <br>
 <a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-FIFA-red'></a><br>
-
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
 </div>
