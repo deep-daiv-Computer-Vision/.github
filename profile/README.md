@@ -29,7 +29,10 @@ Chunghyun Shin<sup>1</sup>, Myeonggu Jo<sup>2</sup>, Soo Yong Kim <sup>3</sup>, 
 
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
+</div>
 
+--- 
+<div align="center">
 <h3> 새 추적 60분 </h3>
 Yejin Kim<sup>1</sup>, Sumin Cho<sup>2</sup>, Wooryeon Lee <sup>3</sup>, and Jaeung Lee <sup>4&dagger;</sup>
 <br>
@@ -41,7 +44,6 @@ Yejin Kim<sup>1</sup>, Sumin Cho<sup>2</sup>, Wooryeon Lee <sup>3</sup>, and Jae
 <a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
 포커싱 전환 및 비디오 프레임 보간을 통한 시네마틱 슬로우모션 제작 <br>
-
 </div>
 
 ## '24 Summer Vision Application
