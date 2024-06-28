@@ -15,27 +15,28 @@ Mentor: [Jaeung Lee](https://github.com/gnueaj)
 
 ## '24 Spring Vision Application  
 <div align="center">
-<strong> FIFA: Futsal Identification Focused Analyzer </strong> <br> 
+<h3> FIFA: Futsal Identification Focused Analyzer </h3>
 Chunghyun Shin<sup>1</sup>, Myeonggu Jo<sup>2</sup>, Soo Yong Kim <sup>3</sup>, and Jaeung Lee <sup>4&dagger;</sup>
 <br>
 <sup>1</sup>Yonsei University&emsp;
 <sup>2</sup>Hanyang University&emsp;
 <sup>3</sup>Seoul National University&emsp;
-<sup>4</sup>Sungkyunkwan University
-<br>
+<sup>4</sup>Sungkyunkwan University<br>
 
+<br>
 <a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-FIFA-red'></a><br>
+
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
 
-<strong> 새 추적 60분 </strong> <br>
+<h3> 새 추적 60분 </h3>
 Yejin Kim<sup>1</sup>, Sumin Cho<sup>2</sup>, Wooryeon Lee <sup>3</sup>, and Jaeung Lee <sup>4&dagger;</sup>
 <br>
 <sup>1</sup>Konkuk University&emsp;
 <sup>2</sup>Hongkik University&emsp;
 <sup>3</sup>Hanyang University&emsp;
-<sup>4</sup>Sungkyunkwan University
+<sup>4</sup>Sungkyunkwan University<br>
 <br>
 <a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
