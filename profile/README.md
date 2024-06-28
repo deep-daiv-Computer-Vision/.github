@@ -1,7 +1,7 @@
 # 🖐️ Welcome to the deep daiv. Computer Vision Team!
-This is repository for the deep daiv. Computer Vision team's code and projects.  
+This is repository for the [deep daiv.](https://deepdaiv.oopy.io/) Computer Vision team's code and projects.  
 
-Mentor: [Jaeung Lee](https://github.com/gnueaj)
+Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
  
 ## '23 Winter Computer Vision
 
