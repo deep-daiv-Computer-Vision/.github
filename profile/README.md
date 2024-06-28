@@ -46,7 +46,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 , and [Jaeung Lee](https://github.com/gnueaj) <sup>4&dagger;</sup>
 <br>
 <sup>1</sup>Konkuk University&emsp;
-<sup>2</sup>Hongkik University&emsp;
+<sup>2</sup>Hongik University&emsp;
 <sup>3</sup>Hanyang University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
