@@ -31,6 +31,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 <a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-FIFA-red'></a><br>
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
+Fiure
 <br>
 </div>
 
@@ -48,9 +49,10 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 <sup>3</sup>Hanyang University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/ViP/"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
+<a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
 <a href='https://google.com'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
 포커싱 전환 및 비디오 프레임 보간을 통한 시네마틱 슬로우모션 제작 <br>
+Figure
 </div>
 
 ## '24 Summer Vision Application
