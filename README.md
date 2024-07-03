@@ -28,7 +28,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 <sup>3</sup>Seoul National University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
-<a href="https://google.com"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
+<a href="https://deep-daiv-computer-vision.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
 <a href='https://github.com/deep-daiv-Computer-Vision/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA-red'></a><br>
 <img src="./images/pipeline_skeleton.png" width="600" style="padding:10px;"><br>
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
