@@ -68,5 +68,27 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 포커싱 전환 및 비디오 프레임 보간을 통한 시네마틱 슬로우모션 제작 <br>
 </div>
 
+## '24 Spring Deep Learning Architecture
+<div align="center">
+<h3> 3DGS 다이어트 </h3>
+
+[Yeonkyung Lee]()<sup>1</sup>
+, [Eunseo Seo]()<sup>2</sup>
+, [Dayeon Woo]()<sup>3</sup>
+, [Chehun Han]()<sup>4</sup>
+, and [Changgyun Jin]()<sup>5&dagger;</sup>
+<br>
+<sup>1</sup>Sejong University&emsp;
+<sup>2</sup>Chungang University&emsp;
+<sup>3</sup>Sungkyunkwan University&emsp;
+<sup>4</sup>Ewha Womans University&emsp;
+<sup>5</sup>Seoul National University of Science & Technology&emsp;<br>
+<br>
+<a href="https://deep-daiv-computer-vision.github.io/3DGS_DIET/"><img src='https://img.shields.io/badge/Project Page-3DGS DIET-blue'></a>&nbsp;
+<a href='https://github.com/deep-daiv-Computer-Vision/3DGS_DIET/'><img src='https://img.shields.io/badge/Code-3DGS DIET-red'></a><br>
+<img src="./images/pipeline_3dgs.png" width="600" style="padding:10px;"><br>
+3DGS 모델의 한계점인 메모리 사용량 문제를 해결하기 위한 모델 구현 <br>
+</div>
+
 ## '24 Summer Vision Application
 - TBU
