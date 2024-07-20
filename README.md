@@ -41,8 +41,8 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>3</sup>Seoul National University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA-green'></a>&nbsp;
-<a href='https://github.com/deep-daiv-Computer-Vision/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA-red'></a><br>
+<a href="https://deep-daiv-computer-vision.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA(TBU)-green'></a>&nbsp;
+<a href='https://github.com/deep-daiv-Computer-Vision/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA(TBU)-red'></a><br>
 <img src="./images/pipeline_skeleton.png" width="600" style="padding:10px;"><br>
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
