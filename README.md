@@ -80,7 +80,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <br>
 <sup>1</sup>Sejong University&emsp;
 <sup>2</sup>Chungang University&emsp;
-<sup>3</sup>Sungkyunkwan University&emsp;
+<sup>3</sup>Sungkyunkwan University&emsp;<br>
 <sup>4</sup>Ewha Womans University&emsp;
 <sup>5</sup>Seoul National University of Science & Technology&emsp;<br>
 <br>
