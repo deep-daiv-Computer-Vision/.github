@@ -72,11 +72,11 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <div align="center">
 <h3> 3DGS 다이어트 </h3>
 
-[Yeonkyung Lee]()<sup>1</sup>
-, [Eunseo Seo]()<sup>2</sup>
-, [Dayeon Woo]()<sup>3</sup>
-, [Chehun Han]()<sup>4</sup>
-, and [Changgyun Jin]()<sup>5&dagger;</sup>
+[Yeonkyung Lee](https://github.com/dusruddl2)<sup>1</sup>
+, [Eunseo Seo](https://github.com/tjdmstj)<sup>2</sup>
+, [Dayeon Woo](https://github.com/yeonyeonn)<sup>3</sup>
+, [Chehun Han](https://github.com/chechae)<sup>4</sup>
+, and [Changgyun Jin](https://github.com/jcg6074)<sup>5&dagger;</sup>
 <br>
 <sup>1</sup>Sejong University&emsp;
 <sup>2</sup>Chungang University&emsp;
