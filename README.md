@@ -1,7 +1,7 @@
-# 🖐️ Welcome to the deep daiv. Computer Vision Team!
+# 🖐️ Welcome to the deep daiv. Computer Vision / XAI Team!
 This is repository for the [deep daiv.](https://deepdaiv.oopy.io/) Computer Vision team's code and projects.  
 
-Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
+Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
 
 
 ## '23 Winter Computer Vision
@@ -22,7 +22,7 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
 <br>
 <a href="https://deep-daiv-computer-vision.github.io/mask_removal/"><img src='https://img.shields.io/badge/Project Page-Mask Removal-blue'></a>&nbsp;
 <a href='https://github.com/deep-daiv-Computer-Vision/mask_removal'><img src='https://img.shields.io/badge/Code-Mask Removal-red'></a><br>
-<img src="./images/pipeline_mask.jpg" width="600" style="padding:10px;"><br>
+<img src="../images/pipeline_mask.jpg" width="600" style="padding:10px;"><br>
 Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 생성 <br>
 <br>
 </div>
@@ -43,7 +43,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <br>
 <a href="https://deep-daiv-computer-vision.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA(TBU)-blue'></a>&nbsp;
 <a href='https://github.com/deep-daiv-Computer-Vision/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA(TBU)-red'></a><br>
-<img src="./images/pipeline_skeleton.png" width="600" style="padding:10px;"><br>
+<img src="../images/pipeline_skeleton.png" width="600" style="padding:10px;"><br>
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
 </div>
@@ -64,7 +64,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <br>
 <a href="https://deep-daiv-computer-vision.github.io/ViP/"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
 <a href='https://github.com/deep-daiv-Computer-Vision/ViP'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
-<img src="./images/pipeline_vip.png" width="600" style="padding:10px;"><br>
+<img src="../images/pipeline_vip.png" width="600" style="padding:10px;"><br>
 포커싱 전환 및 비디오 프레임 보간을 통한 시네마틱 슬로우모션 제작 <br>
 </div>
 
@@ -86,7 +86,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <br>
 <a href="https://deep-daiv-computer-vision.github.io/3DGS_DIET/"><img src='https://img.shields.io/badge/Project Page-3DGS DIET-blue'></a>&nbsp;
 <a href='https://github.com/deep-daiv-Computer-Vision/3DGS_DIET/'><img src='https://img.shields.io/badge/Code-3DGS DIET-red'></a><br>
-<img src="./images/pipeline_3dgs.png" width="600" style="padding:10px;"><br>
+<img src="../images/pipeline_3dgs.png" width="600" style="padding:10px;"><br>
 3DGS 모델의 한계점인 메모리 사용량 문제를 해결하기 위한 모델 구현 <br>
 </div>
 
