@@ -92,3 +92,6 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 
 ## '24 Summer Vision Application
 - TBU
+  
+## '24 Fall eXplainable AI
+- TBU
