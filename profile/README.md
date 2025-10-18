@@ -1,7 +1,7 @@
 # 🖐️ Welcome to the deep daiv. Computer Vision / XAI Team!
 This is repository for the [deep daiv.](https://www.deepdaiv.com/) Computer Vision team's code and projects.  
 
-Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.01 ~ present)
+Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
 
 
 ## '23 Winter Computer Vision
