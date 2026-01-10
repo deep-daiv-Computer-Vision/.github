@@ -1,5 +1,5 @@
-# 🖐️ Welcome to the deep daiv. XAI / Computer Vision Team!
-This is repository for the [deep daiv.](https://www.deepdaiv.com/) Computer Vision / XAI team's projects.  
+# 🖐️ Welcome to the deep daiv. XAI / CV Team!
+This is repository for the [deep daiv.](https://www.deepdaiv.com/) XAI / Computer Vision team's projects.  
 
 Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
 
