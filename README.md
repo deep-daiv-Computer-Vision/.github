@@ -1,5 +1,5 @@
 # 🖐️ Welcome to the deep daiv. XAI / CV Team!
-This is repository for the [deep daiv.](https://www.deepdaiv.com/) XAI / Computer Vision team's projects.  
+This is repository for the [deep daiv.](https://www.instagram.com/deep.daiv/) XAI / Computer Vision team's projects.  
 
 Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
 
@@ -112,7 +112,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <div align="center">
 <h3> 헤어지자고? 나 프로 프롬프턴데 </h3>
 
-[Kyuri Kim](https://github.com/kyuria)<sup>1</sup>
+[Kyuri Kim](https://github.com/kyuriya)<sup>1</sup>
 , [Nayeong Kim](https://github.com/yeong36)<sup>2</sup>
 , [Seunghoon Choi]()<sup>3</sup>
 , and [Jaeung Lee](https://github.com/gnueaj)<sup>2&dagger;</sup>
