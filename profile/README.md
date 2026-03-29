@@ -20,8 +20,8 @@ Project Lead : [Jaeung Lee](https://github.com/gnueaj) (2024.02 ~ 2025.01)
 <sup>3</sup>Chung-Ang University&emsp;
 <sup>4</sup>Ewha Womans University<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/mask_removal/"><img src='https://img.shields.io/badge/Project Page-Mask Removal-blue'></a>&nbsp;
-<a href='https://github.com/deep-daiv-Computer-Vision/mask_removal'><img src='https://img.shields.io/badge/Code-Mask Removal-red'></a><br>
+<a href="https://deep-daiv-xai.github.io/mask_removal/"><img src='https://img.shields.io/badge/Project Page-Mask Removal-blue'></a>&nbsp;
+<a href='https://github.com/deep-daiv-xai/mask_removal'><img src='https://img.shields.io/badge/Code-Mask Removal-red'></a><br>
 <img src="../images/pipeline_mask.jpg" width="600" style="padding:10px;"><br>
 Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 생성 <br>
 <br>
@@ -41,8 +41,8 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>3</sup>Seoul National University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA(TBU)-blue'></a>&nbsp;
-<a href='https://github.com/deep-daiv-Computer-Vision/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA(TBU)-red'></a><br>
+<a href="https://deep-daiv-xai.github.io/Skeleton/"><img src='https://img.shields.io/badge/Project Page-FIFA(TBU)-blue'></a>&nbsp;
+<a href='https://github.com/deep-daiv-xai/Skeleton'><img src='https://img.shields.io/badge/Code-FIFA(TBU)-red'></a><br>
 <img src="../images/pipeline_skeleton.png" width="600" style="padding:10px;"><br>
 플레이어 트래킹 및 멀티모달 임베딩을 이용한 풋살 경기 영상 분석기 <br>
 <br>
@@ -62,8 +62,8 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>3</sup>Hanyang University&emsp;
 <sup>4</sup>Sungkyunkwan University<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/ViP/"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
-<a href='https://github.com/deep-daiv-Computer-Vision/ViP'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
+<a href="https://deep-daiv-xai.github.io/ViP/"><img src='https://img.shields.io/badge/Project Page-Bird Tracker-blue'></a>&nbsp;
+<a href='https://github.com/deep-daiv-xai/ViP'><img src='https://img.shields.io/badge/Code-Bird Tracker-red'></a><br>
 <img src="../images/pipeline_vip.png" width="600" style="padding:10px;"><br>
 포커싱 전환 및 비디오 프레임 보간을 통한 시네마틱 슬로우모션 제작 <br>
 </div>
@@ -84,8 +84,8 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>4</sup>Ewha Womans University&emsp;
 <sup>5</sup>Seoul National University of Science & Technology&emsp;<br>
 <br>
-<a href="https://deep-daiv-computer-vision.github.io/3DGS_DIET/"><img src='https://img.shields.io/badge/Project Page-3DGS DIET-blue'></a>&nbsp;
-<a href='https://github.com/deep-daiv-Computer-Vision/3DGS_DIET/'><img src='https://img.shields.io/badge/Code-3DGS DIET-red'></a><br>
+<a href="https://deep-daiv-xai.github.io/3DGS_DIET/"><img src='https://img.shields.io/badge/Project Page-3DGS DIET-blue'></a>&nbsp;
+<a href='https://github.com/deep-daiv-xai/3DGS_DIET/'><img src='https://img.shields.io/badge/Code-3DGS DIET-red'></a><br>
 <img src="../images/pipeline_3dgs.png" width="600" style="padding:10px;"><br>
 3DGS 모델의 한계점인 메모리 사용량 문제를 해결하기 위한 모델 구현 <br>
 </div>
@@ -103,7 +103,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>2</sup>Sejong University&emsp;
 <sup>3</sup>Sungkyunkwan University<br>
 <br>
-<a href='https://github.com/deep-daiv-Computer-Vision/223/'><img src='https://img.shields.io/badge/Code-223-red'></a><br>
+<a href='https://github.com/deep-daiv-xai/223/'><img src='https://img.shields.io/badge/Code-223-red'></a><br>
 <img src="../images/map.jpg" width="600" style="padding:10px;"><br>
 카페, 헬스장 등 다양한 공간을 3D 복원 기술로 생생하게 체험할 수 있는 가상 탐험 플랫폼 <br>
 </div>
@@ -121,7 +121,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>2</sup>Sungkyunkwan University&emsp;
 <sup>3</sup>Seoul National University of Science & Technology<br>
 <br>
-<a href='https://github.com/deep-daiv-Computer-Vision/223/'><img src='https://img.shields.io/badge/Code-Prompt Explainer-red'></a><br>
+<a href='https://github.com/deep-daiv-xai/223/'><img src='https://img.shields.io/badge/Code-Prompt Explainer-red'></a><br>
 <img src="../images/prompt.jpg" width="600" style="padding:10px;"><br>
 프롬프트의 기여도를 시각화하는 Prompt Explainer <br>
 </div>
@@ -139,7 +139,7 @@ Diffusion및 DreamBooth Fine-tuning을 활용한 마스크로 가려진 얼굴 �
 <sup>2</sup>Sungkyunkwan University&emsp;
 <sup>3</sup>Seoul Womans University<br>
 <br>
-<a href='https://github.com/deep-daiv-Computer-Vision/223/'><img src='https://img.shields.io/badge/Code-Summary-red'></a><br>
+<a href='https://github.com/deep-daiv-xai/223/'><img src='https://img.shields.io/badge/Code-Summary-red'></a><br>
 <img src="../images/summary.jpg" width="600" style="padding:10px;"><br>
 요약 모델에서의 문장 단위 기여도를 시각화한 맞춤형 텍스트 요약기 <br>
 </div>
